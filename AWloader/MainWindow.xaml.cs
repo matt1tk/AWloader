@@ -1,4 +1,4 @@
-﻿using System.Windows;
+using System.Windows;
 using System.Diagnostics;
 using System;
 using System.Windows.Input;
@@ -56,6 +56,7 @@ namespace AWloader
                 }
                 break;
             }
+            Environment.Exit(0); //close program
         }
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
@@ -70,8 +71,11 @@ namespace AWloader
                 {
                     continue;
                 }
+
                 break;
+                
             }
+            Environment.Exit(0); //close program
         }
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
