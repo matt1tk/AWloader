@@ -1,0 +1,14 @@
+C:\Users\M-PC\source\repos\AWloader\AWloader\bin\Debug\AWloader.exe.config
+C:\Users\M-PC\source\repos\AWloader\AWloader\bin\Debug\AWloader.exe
+C:\Users\M-PC\source\repos\AWloader\AWloader\bin\Debug\AWloader.pdb
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\AWloader.csprojAssemblyReference.cache
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\MainWindow.g.cs
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\App.g.cs
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\AWloader_MarkupCompile.cache
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\AWloader_MarkupCompile.lref
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\MainWindow.baml
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\AWloader.g.resources
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\AWloader.Properties.Resources.resources
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\AWloader.csproj.GenerateResource.cache
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\AWloader.exe
+C:\Users\M-PC\source\repos\AWloader\AWloader\obj\Debug\AWloader.pdb
